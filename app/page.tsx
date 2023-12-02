@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="bg-gray-900 flex min-h-screen flex-col items-center justify-between p-24">
       <article className='prose lg:prose-xl prose-invert max-w-xl '>
         <h1 className="text-red-700">The Brutestrapper Manifesto</h1>
         <p>
